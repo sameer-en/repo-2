@@ -1,1 +1,8 @@
 This is test file created on repo directly.
+
+To add new file/s 
+
+1) git add "FILENAME" or git add . It will show up total file/s to be staged.
+2) git commit -m "COMMENT"  This will commit our changes with comments to repo
+3) git push origin master This will push local files to repo branch master.
+Unless we git push, git commit will not send files to repo.
