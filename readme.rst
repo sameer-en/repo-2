@@ -72,5 +72,5 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 Test Paragraph
 ***************
-- `test link  <https://www.google.com>`
-- `Another link <https://facebook.com>` 
+- `test link  <https://www.google.com>`_
+- `Another link <https://facebook.com>`_
