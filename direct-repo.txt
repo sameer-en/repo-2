@@ -25,5 +25,3 @@ git pull origin master where master is branch name
 
 --------------
 
-Other commands used are : git status ( to check whether any file need to be commited) , git log ( see logs )
-IN above commands, what is role/use of origin word?
