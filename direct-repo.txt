@@ -24,6 +24,13 @@ To get recent files from repo
 git pull origin master where master is branch name
 
 --------------
+to delete file from repo
+1) git rm <filename/dirname>
+2) git status
+3) git commit -m "<message>"
+4) git push origin <branchname>
+-------------------------
+
 
 Other commands used are : git status ( to check whether any file need to be commited) , git log ( see logs )
 IN above commands, what is role/use of origin word? 
