@@ -34,3 +34,81 @@ to delete file from repo
 
 Other commands used are : git status ( to check whether any file need to be commited) , git log ( see logs )
 IN above commands, what is role/use of origin word? 
+
+http://stackoverflow.com/questions/1616957/how-do-you-roll-back-reset-a-git-repository-to-a-particular-commit
+git reset --hard <tag/branch/commit id>
+
+
+
+@media (max-width: @screen-xs-max) { ... }
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { ... }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
+@media (min-width: @screen-lg-min) { ... }
+
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp
+
+------
+- hya jagat kuni maja raag karel pan me kunacha rag karel asa ekahi kshan mala nako - gautam budha tripitak 123/26:21
+- bhikari nako banu,karan aaine tula rajya dile raja banavala
+- ti sthiti aaine sagalyana dili ahe pan manushya mohat padto dev tyala tari kay karnar, ani mhanto ki amchi sthiti nahi ajun
+- ego super ego ahe mhanun samaj,ani swatabaddal manushya dosh aarop karat asto
+- sahajyog ko jisne bhi dhyan samarpanse agar samza hai to o eki chij samza hai ki sahajyog yane prem bas prem hai.. shree mataji 2002 delhi
+- think less of ourselves n give more attention towards benovalence.The benovalent thought also brings a lot of inner joy. shree mataji 1989
+- jar aapan aatmadhech sthir naiye tar samuhiktecha aanand kasa ghenar? 
+- pahile atun sthir hone imp ahe mag saglya gosti hotil
+- ani aapan aat jayla ghabarto karan baherch kas honar ha prashn padto, bhiti aste tyamule
+- jevha aapli ekmev icha asel ki aplyala connectedch rahaych ahe tar aplyala apoaap dnyan hote, parishtiti che takke tonpe khayla ghalun nahi yet. yalach
+samayasi sadar hone mhantat. takshan dnyan hote.
+- heat hi lagech naste hot. ti khup divasanpasunchi aste, mahina,week etc. mag ekdam prakat hote. yasathi aplyala niymit swatakade laksh thevne imp ahe. ase jale tar aplyala 
+adhich samjel ki pudhe jaun aplyala kay ajar hou shaknar ahe.kay tras hou shakto etc. yasathi swatakade laksh thevayala have.
+- job, itar karyakram hi parishtiti ashich chalu rahnar ahe. tyamule aplyala asa special vel milel ascent kade laksh dyayla hi bhranti ahe.swatalach efforts 
+ghyala pahij vel kadhun. te kase ghyayche te apan pahayche
+- ani atmapariskhan karto te ekprakare ego nech karat asto. pan te vishudhi paryant. ekda adnyala gelyavar apan kahich karat nasto. so tevdha ego thik ahe karan to 
+aplya ascent sathich ahe.
+- apan pahile sahajyogi ahot karan tyatunch bakiche relations barobar maintain hotat. jyala j have to te gheu shakto. 
+pan ekach relation la bond houn rahne hi pan bhrantich ahe. murkhapan ahe. vaya jane..
+- when sahajyogi ascent other things will also ascent
+- essense of sahasrara is integration. As all dieties in sahasrara so. 
+- if ur kundlini gets in sahasrara then all things unite. physical,mental being
+- honestly introspect, how far collective, can not communicate with others, strange etc. face yourself from self and correct it.
+- 
+
+
+ 
+
+https://github.com/jasonzissman/TimeMe.js/
+http://timemejs.com/
+http://stackoverflow.com/questions/17804078/is-it-possible-to-know-how-long-a-user-has-spent-on-a-page
+
+timer
+time spent
+on window load
+window unload
+window focus
+window blur
+window 
+ajax call to update
+js get page url, name, 
+start interval
+clear interval
+pause interval
+http://www.htmlgoodies.com/beyond/javascript/article.php/3724571/Using-Multiple-JavaScript-Onload-Functions.htm
+http://www.htmlgoodies.com/beyond/javascript/top-10-jquery-tips-and-tricks.html
+http://www.artzstudio.com/2009/04/jquery-performance-rules/
+
+
+
+
+
+https://www.codeigniter.com/user_guide/database/forge.html?highlight=dbforge
+
+CI 
+migration
+Form , form validation and HTML helpers
+
+MySQL
+adding keys , foreign keys etc
+
+github
+git push at new dev branch for each feature addition
