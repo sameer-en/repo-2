@@ -153,5 +153,5 @@ include it using standerd <script> tag then use our code. it willnot give any er
 6.
 $this->load->helper('url');
 $slug = url_title($this->input->post('title'), 'dash', TRUE);
-
+--------------------------
 
