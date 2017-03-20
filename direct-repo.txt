@@ -20,10 +20,21 @@ To add files at repo first time.
 5) git push origin master  This will push all local files to repo.
 
 --------------
+To delete files
+1) run command git rm <filename/directoryname>
+2) check status by running git status whether it shows in red that deleted or not
+3) run git commit -m "<message>" to add operation to be commited
+4) run git push origin <branchname> to push changes to repository
+------------------
+
+
+
+
 To get recent files from repo
 git pull origin master where master is branch name
 
 --------------
+<<<<<<< HEAD
 to delete file from repo
 1) git rm <filename/dirname>
 2) git status
@@ -155,4 +166,35 @@ include it using standerd <script> tag then use our code. it willnot give any er
 $this->load->helper('url');
 $slug = url_title($this->input->post('title'), 'dash', TRUE);
 -------------------------
+=======
+https://git-scm.com/book/en/v1/ 
+http://cloud.scorm.com/doc/web-services/api.html
+
+Other commands used are : git status ( to check whether any file need to be commited) , git log ( see logs )
+IN above commands, what is role/use of origin word?
+
+origin word stands for the shortform that is used to reference the URL of the repo. So this saves time for writing full url each time of push/pull
+You can use any word instead and just reference it next time.
+----
+git stash
+git merge
+
+$ git checkout master
+$ git merge hotfix
+
+$ git branch -d hotfix
+Deleted branch hotfix (was 3a0874c).
+
+
+
+git mergetool
+
+
+git checkout branchname : this is used to switch between branches
+
+
+
+git svn clone https://enyotalearning.git.beanstalkapp.com/repository testlms-ws-relaylms
+https://enyotalearning.git.beanstalkapp.com/testlms-ws-relaylms.git
+>>>>>>> clean_up
 
