@@ -72,7 +72,8 @@ pan ekach relation la bond houn rahne hi pan bhrantich ahe. murkhapan ahe. vaya 
 - essense of sahasrara is integration. As all dieties in sahasrara so. 
 - if ur kundlini gets in sahasrara then all things unite. physical,mental being
 - honestly introspect, how far collective, can not communicate with others, strange etc. face yourself from self and correct it.
-- 
+- descretion of the heart - maryada.. aplya vartanatun samorchyana chance dya sahajyogat sthir whayla. Shree ram puja
+- behavior to parents like shree rama. for day to day 
 
 
  
@@ -97,11 +98,37 @@ http://www.htmlgoodies.com/beyond/javascript/article.php/3724571/Using-Multiple-
 http://www.htmlgoodies.com/beyond/javascript/top-10-jquery-tips-and-tricks.html
 http://www.artzstudio.com/2009/04/jquery-performance-rules/
 
-
+http://stackoverflow.com/questions/14666658/document-createelementscript-vs-script-src
 
 
 
 https://www.codeigniter.com/user_guide/database/forge.html?highlight=dbforge
+
+------------------------
+
+http://stackoverflow.com/questions/550038/is-it-valid-to-replace-http-with-in-a-script-src-http
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+	
+
+I have the following element:
+
+<script type="text/javascript" src="https://cdn.example.com/js_file.js"></script>
+
+In this case the site is HTTPS, but the site may also be just HTTP. (The JS file is on another domain.) I'm wondering if it's valid to do the following for convenience sake:
+
+<script type="text/javascript" src="//cdn.example.com/js_file.js"></script>
+
+I'm wondering if it's valid to remove the http: or https:?
+
+It seems to work everywhere I have tested, but are there any cases where it doesn't work?
+
+-------------------
+
 
 CI 
 migration
@@ -112,3 +139,19 @@ adding keys , foreign keys etc
 
 github
 git push at new dev branch for each feature addition
+
+-------------
+
+
+1. language depedancy for system variables, we can convert system messages langauge wise using database table. db operations do not overload script as compare
+to file level langauge variables manually defining
+2. js and css can be added dynamically to views headers,footers so to increse performance.
+3. use of migrations for table schema changes
+4. use of csrf tokens in forms
+5. do not include jquery lib or any such file using create element tag. as we are using file directly incode elsewhere it will not work.So
+include it using standerd <script> tag then use our code. it willnot give any error.
+6.
+$this->load->helper('url');
+$slug = url_title($this->input->post('title'), 'dash', TRUE);
+
+
